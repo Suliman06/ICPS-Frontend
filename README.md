@@ -60,7 +60,7 @@ The dashboard is designed to show:
 
 Clone the repository:
 
-git clone PASTE_FRONTEND_REPOSITORY_LINK_HERE
+git clone https://github.com/Suliman06/ICPS-Frontend
 cd icps-frontend
 
 Install dependencies:
